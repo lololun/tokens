@@ -1,7 +1,7 @@
 {
     "name": "Australian International Digital Currency Exchange Token",
-    "website": "http://adcx.fund",
-    "description": "ADCX（Australian international Digital Currency Exchange）is a cross-chain asset exchange protocol based on the Ethereum Network. It is mainly used in NFT asset mortgage lending and NFT liquidity mining. A DeFi financial system incorporating DeFi+DAO+NFT+Cross-chain technology has been designed to provide services such as issuing, trading various assets and liquidity mining (e.g., DeFi, NFT, token trading strategies) through the ADCX protocol.",
+    "website": "https://adcx.io",
+    "description": "ADCX is a cross-chain asset exchange protocol based on the Binance Smart Chain Network, which is mainly used in the fields of NFT asset mortgage lending and NFT liquidity mining.",
     "explorer": "https://bscscan.com/token/0x18E5694C1568Db4FA22E39dBa70A1B92b33DCC65",
     "type": "BEP20",
     "symbol": "ADC",

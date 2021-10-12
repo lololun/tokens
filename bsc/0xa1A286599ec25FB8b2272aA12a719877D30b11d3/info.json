@@ -1,0 +1,11 @@
+{
+    "name": "Shopzcoin",
+    "website": "https://wallet.szcglobal.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xa1A286599ec25FB8b2272aA12a719877D30b11d3",
+    "type": "BEP20",
+    "symbol": "SZC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa1A286599ec25FB8b2272aA12a719877D30b11d3"
+   }

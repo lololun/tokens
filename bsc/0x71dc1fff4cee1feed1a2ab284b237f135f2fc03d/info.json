@@ -1,0 +1,11 @@
+{
+    "name": "Roo",
+    "website": "https://rooprotocol.com",
+    "description": "Roo Protocol integrates the decentralized financial system of NFT+DeFi+DAO+ cross-chain technology, and aims to provide DeFi and NFT full ecological services such as NFT liquidity mining, NFT casting and circulation through Roo Protocol.",
+    "explorer": "https://bscscan.com/token/0x71dc1fff4cee1feed1a2ab284b237f135f2fc03d",
+    "type": "BEP20",
+    "symbol": "Roo",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x71dc1fff4cee1feed1a2ab284b237f135f2fc03d"
+   }

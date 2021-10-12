@@ -1,0 +1,11 @@
+{
+    "name": "ROOB",
+    "website": "https://rooprotocol.com",
+    "description": "ROOB is a new set of DAO community governance tokens independently developed by Roo Protocol. ROOB adopts a reward of workload mechanism (Proof of Sharing).",
+    "explorer": "https://bscscan.com/token/0x1dcd3ab152f455d50f495f49561d813986e96fd0",
+    "type": "BEP20",
+    "symbol": "ROOB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1dcd3ab152f455d50f495f49561d813986e96fd0"
+   }
